@@ -296,9 +296,12 @@ h3 {
 }
 
 .card p,
-.answer,
-.contact-panel p {
+.answer {
   color: var(--secondary);
+}
+
+.contact-panel p {
+  color: var(--text);
 }
 
 .faq {
